@@ -34,6 +34,14 @@ The project consists of the following components:
 
 ---
 
+## Figma Design
+
+A Figma design has been created to visualize the layout and user interface of the Snake Game. This design provides a clear blueprint for the game’s aesthetic and user interactions. You can view the Figma design here:
+
+[Snake Game Design on Figma](https://www.figma.com/design/3Q0oEzPZtm2YHl9Z38Fz4g/Snake-Game-Design-0?m=auto&t=raKqQuZrFAb2cdlG-6)
+
+---
+
 ## How to Run the Project
 
 1. **Install Pygame**:
@@ -137,10 +145,5 @@ This project is inspired by the classic Snake game, a staple of early mobile and
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 Enjoy playing and customizing the Snake Game
+
